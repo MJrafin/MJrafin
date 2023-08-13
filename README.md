@@ -1,6 +1,5 @@
 ### Hi there!👋
-I'm Mashrur Jamil Rafin.
-I'm currently a Master of Information Technology and Information Technology Management student at The University of Sydney.
+I'm Mashrur Jamil Rafin, currently a Master of Information Technology and Information Technology Management student at The University of Sydney.
 
 <!--
 **MJrafin/MJrafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
