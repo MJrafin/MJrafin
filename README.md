@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there!👋
 I'm Mashrur Jamil Rafin.
+I'm currently a Master of Information Technology and Information Technology Management student at The University of Sydney.
 
 <!--
 **MJrafin/MJrafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Connect with me:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mashrur-jamil-rafin/) [![Website](https://img.shields.io/badge/Website-%20Portfolio-red)](https://www.mj-rafin.premiernoobs.com/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mashrur-jamil-rafin/)
 
-🌐: https://www.mj-rafin.premiernoobs.com/
